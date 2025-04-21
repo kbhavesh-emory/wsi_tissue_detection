@@ -1,0 +1,52 @@
+[
+    {
+        "lineWidth": 2,
+        "lineColor": "rgb(0,0,255)",
+        "fillColor": "rgba(0,0,255,0.5)",
+        "id": "White Matter",
+        "label": {
+            "value": "White Matter"
+        },
+        "group": "Gray White Segmentation"
+    },
+    {
+        "lineWidth": 2,
+        "lineColor": "rgb(0,128,0)",
+        "fillColor": "rgba(0,128,0,0.5)",
+        "id": "Gray Matter",
+        "label": {
+            "value": "Gray Matter"
+        },
+        "group": "Gray White Segmentation"
+    },
+    {
+        "lineWidth": 2,
+        "lineColor": "rgb(255,255,0)",
+        "fillColor": "rgba(255,255,0,0.5)",
+        "id": "Superficial",
+        "label": {
+            "value": "Superficial"
+        },
+        "group": "Gray White Segmentation"
+    },
+    {
+        "lineWidth": 2,
+        "lineColor": "rgb(0,0,0)",
+        "fillColor": "rgba(0,0,0,0.5)",
+        "id": "Leptomeninges",
+        "label": {
+            "value": "Leptomeninges"
+        },
+        "group": "Gray White Segmentation"
+    },
+    {
+        "lineWidth": 2,
+        "lineColor": "rgb(255,0,0)",
+        "fillColor": "rgba(255,0,0,0.5)",
+        "id": "Exclude",
+        "label": {
+            "value": "Exclude"
+        },
+        "group": "Gray White Segmentation"
+    }
+]
