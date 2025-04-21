@@ -1,0 +1,14 @@
+jupyter
+datasets
+huggingface_hub
+torchvision
+transformers[torch]
+evaluate
+matplotlib
+girder-client
+tqdm
+pandas
+numpy
+dsa_helpers
+segments-ai
+scikit-learn

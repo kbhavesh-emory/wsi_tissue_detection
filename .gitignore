@@ -1,0 +1,24 @@
+# Ignore python environment directories.
+env/
+venv/
+pyenv/
+
+# Ignore directory where images are stored.
+data/
+
+# Ignore certain files that scripts will create.
+annotation_data.csv
+
+*.pyc
+__pycache__
+
+.ipynb_checkpoints/
+
+# Ignore models directory.
+models/
+
+uk-dsa-annotations.json
+.pyenv/
+tutorials/data
+result/
+
